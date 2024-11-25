@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying ICT at AGH in Cracow.<br>👯 I’m looking to collaborate. <br>🌱 I’m currently learning Kotlin.<br>📫 How to reach me on mail michal513717@gmail.com or linkedin.<br>✨ Creating bugs since 2019.<br>👨‍💻 All of my projects are available at tab repository.
+🔭 I’m currently studying ICT at AGH in Cracow.<br>👯 I’m looking to collaborate. <br>📫 How to reach me on mail michal513717@gmail.com or linkedin.<br>✨ Creating bugs since 2019.<br>👨‍💻 All of my projects are available at tab repository.
 
 
 ## 🌐 Socials:
